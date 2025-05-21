@@ -27,7 +27,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-pedrosa-39299833a)  
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rpramos2005@gmail.com)
 
+---
+
 💬 *“No lugar de onde eu venho, os melhores são apenas bons nos desafios da vida.”*
+
 ---
 
 # 🇺🇸 English:
