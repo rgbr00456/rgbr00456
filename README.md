@@ -63,5 +63,3 @@
 ---
 
 💬 *“Where I come from, the best are only good at life's challenges.”*
-
-Translated with DeepL.com (free version)
