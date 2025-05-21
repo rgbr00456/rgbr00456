@@ -1,23 +1,19 @@
 # 👋 Bem vindo(a)! Meu nome é Ricardo Pedrosa!
 
-🎓 Estudante de Ciência da Computação | 💻 Focado em Sistemas de Baixo Nível e desenvolvimento Back-end.  
----
+🎓 Estudante de Ciência da Computação.<br>
+💻 Focado em Sistemas de Baixo Nível e desenvolvimento Back-end.  
 
-## 🧠 Tecnologias que estou aprendendo
+### 🧠 Tecnologias dominadas:
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![Assembly RISC-V](https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=riscv&logoColor=white)
-
----
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC--V-000000?style=flat-square&logo=riscv&logoColor=white)
 
 ## 🚀 Projetos em Destaque
 
 - [🔗 **Prison Corrupt: An Assembly 2D game**](https://github.com/rgbr00456/Prison-Corrupt): Um jogo 2D, com interface gráfica, animações e efeitos sonoros feitos em Assembly RISC-V.
 - [🔗 **DropMerge game in C**](https://github.com/rgbr00456/DropMerge-game): Um jogo feito em C e que roda direto no terminal. 
 - [🔗 **Problemas do beecrowd resolvidos em C e Java**](https://github.com/rgbr00456/Beecrowd-Solutions): Esse repositório conta com (quase) todas as soluções dos principais exercícios disponíveis no Beecrowd/URI Online em Java e C.
-
----
 
 ## 📈 Em progresso
 
