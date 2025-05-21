@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Bem vindo(a)! Meu nome é Ricardo Pedrosa!
 
-<!--
-**rgbr00456/rgbr00456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação | 💻 Focado em Sistemas de Baixo Nível e desenvolvimento Back-end.  
+---
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Assembly RISC-V](https://img.shields.io/badge/RISC--V-000000?style=for-the-badge&logo=riscv&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+- [🔗 **Prison Corrupt: An Assembly 2D game**](https://github.com/rgbr00456/Prison-Corrupt): Um jogo 2D, com interface gráfica, animações e efeitos sonoros feitos em Assembly RISC-V.
+- [🔗 **DropMerge game in C**](https://github.com/rgbr00456/DropMerge-game): Um jogo feito em C e que roda direto no terminal. 
+- [🔗 **Problemas do beecrowd resolvidos em C e Java**](https://github.com/rgbr00456/Beecrowd-Solutions): Esse repositório conta com (quase) todas as soluções dos principais exercícios disponíveis no Beecrowd/URI Online em Java e C.
+
+---
+
+## 📈 Em progresso
+
+- [ ] Uma nova versão com interface gráfica do projeto "Animal ZOO"  
+- [ ] Melhoria do repositório "java-projects"  
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-pedrosa-39299833a)  
+[![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rpramos2005@gmail.com)
+
+---
+
+💬 *“No lugar de onde eu venho, os melhores são apenas bons nos desafios da vida.”*
