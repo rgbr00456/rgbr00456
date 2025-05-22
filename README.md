@@ -24,8 +24,10 @@
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-pedrosa-39299833a)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-pedrosa-39299833a)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rpramos2005@gmail.com)
+[![beecrowd](https://img.shields.io/badge/beecrowd-121212?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_LOGO_BASE64&logoColor=yellow)](https://judge.beecrowd.com/pt/profile/1066404)
+
 
 ---
 
@@ -59,8 +61,10 @@
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-pedrosa-39299833a) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-pedrosa-39299833a)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rpramos2005@gmail.com)
+[![beecrowd](https://img.shields.io/badge/beecrowd-121212?style=for-the-badge&logo=data:image/svg+xml;base64,YOUR_LOGO_BASE64&logoColor=yellow)](https://judge.beecrowd.com/pt/profile/1066404)
+
 
 ---
 
